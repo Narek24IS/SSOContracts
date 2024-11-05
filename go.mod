@@ -1,4 +1,4 @@
-module SSOContracts
+module github.com/Narek24IS/SSOContracts
 
 go 1.22
 
